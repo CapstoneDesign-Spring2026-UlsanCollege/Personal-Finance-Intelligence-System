@@ -4,9 +4,100 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Finance Intelligence System</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>Welcome to the Personal Finance Intelligence System</h1>
-    <!-- Transaction input form and other UI elements will go here -->
+    <!-- Navigation Header -->
+    <header class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <h1 class="logo-text">💰 FinanceIQ</h1>
+                </div>
+                <nav class="nav-links">
+                    <a href="#features" class="nav-link">Features</a>
+                    <a href="#about" class="nav-link">About</a>
+                    <a href="#contact" class="nav-link">Contact</a>
+                </nav>
+                <button class="menu-toggle" id="menuToggle">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Take Control of Your Finances</h1>
+                <p class="hero-subtitle">Intelligent insights for smarter financial decisions</p>
+                <div class="hero-buttons">
+                    <button class="btn btn-primary" onclick="goToSection('features')">Get Started</button>
+                    <button class="btn btn-secondary" onclick="goToSection('about')">Learn More</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2 class="section-title">Key Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Track Expenses</h3>
+                    <p>Easily log and categorize your transactions in real-time</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📈</div>
+                    <h3>Smart Analytics</h3>
+                    <p>Get detailed insights into your spending patterns</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Budget Planning</h3>
+                    <p>Set and manage budgets across different categories</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💡</div>
+                    <h3>AI Recommendations</h3>
+                    <p>Receive personalized suggestions to improve your finances</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">About FinanceIQ</h2>
+            <div class="about-content">
+                <p>FinanceIQ is your personal financial intelligence system. It combines modern technology with financial expertise to help you make better decisions about your money.</p>
+                <p>Whether you're tracking daily expenses, planning for the future, or analyzing spending habits, our system provides the tools and insights you need.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <form class="contact-form" id="contactForm">
+                <input type="text" placeholder="Your Name" required class="form-input">
+                <input type="email" placeholder="Your Email" required class="form-input">
+                <textarea placeholder="Your Message" rows="5" class="form-input"></textarea>
+                <button type="submit" class="btn btn-primary">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 FinanceIQ. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
 </body>
 </html>
