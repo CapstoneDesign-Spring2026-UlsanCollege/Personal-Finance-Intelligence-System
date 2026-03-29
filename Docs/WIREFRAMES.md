@@ -195,18 +195,18 @@
 ## MVP Scope Notes
 
 **Included in these wireframes (Week 1):**
-- ✅ User authentication (login)
-- ✅ Dashboard overview
-- ✅ Recent transaction display
-- ✅ Add/edit transaction form
-- ✅ Category selection
+-  User authentication (login)
+-  Dashboard overview
+-  Recent transaction display
+-  Add/edit transaction form
+-  Category selection
 
 **Not included (future sprints):**
-- ❌ Advanced budgeting UI
-- ❌ AI insights display
-- ❌ Bill payment features
-- ❌ Investment tracking
-- ❌ Mobile-specific layout
+-  Advanced budgeting UI
+-  AI insights display
+-  Bill payment features
+-  Investment tracking
+-  Mobile-specific layout
 
 ---
 
