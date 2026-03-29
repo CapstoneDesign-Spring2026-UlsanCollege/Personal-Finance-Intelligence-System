@@ -141,25 +141,25 @@ This architecture sketch shows the **minimum system structure** needed to build 
 ---
 
 ## 4) What's NOT in Scope for Sprint 1
-- AI/ML insights and predictions ❌
-- Real bank API integrations ❌
-- Investment tracking ❌
-- Financial advisor features ❌
-- Mobile app ❌
-- Export/reporting ❌
-- Multiple currencies ❌
+- AI/ML insights and predictions 
+- Real bank API integrations 
+- Investment tracking 
+- Financial advisor features
+- Mobile app 
+- Export/reporting 
+- Multiple currencies 
 
 ---
 
 ## 5) Sprint 1 Focus
 This architecture enables these Sprint 1 tasks:
-- ✅ Set up Express API structure
-- ✅ Create user registration/login endpoints
-- ✅ Build PostgreSQL database schema
-- ✅ Create React frontend components
-- ✅ Connect frontend to backend
-- ✅ Implement transaction CRUD
-- ✅ Deploy to staging environment
+-  Set up Express API structure
+-  Create user registration/login endpoints
+-  Build PostgreSQL database schema
+-  Create React frontend components
+-  Connect frontend to backend
+-  Implement transaction CRUD
+-  Deploy to staging environment
 
 ---
 
