@@ -1,2 +1,2 @@
-# Personal Finance Intelligance System
+# Personal Finance Intelligence System
   For smart finance management
