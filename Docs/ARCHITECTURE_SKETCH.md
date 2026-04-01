@@ -6,7 +6,7 @@ Paste this into `/docs/design-doc-v1.md` or use it to guide your diagram.
 ---
 
 ## 1) Architecture summary
-**System name:** Personal Finance Intelligence System
+**System name:** BudgetBrain
 
 **Main users:**
 - Individual users managing personal finances
@@ -136,3 +136,4 @@ Bad labels:
 
 ## Final rule
 If your architecture sketch cannot help you create Sprint 1 issues, it is too vague.
+

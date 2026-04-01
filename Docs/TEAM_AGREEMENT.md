@@ -1,4 +1,4 @@
-# TEAM AGREEMENT - Personal Finance Intelligence System
+# TEAM AGREEMENT - BudgetBrain
 
 This document is our **team constitution**.
 
@@ -12,11 +12,11 @@ This agreement may be **updated during the semester** if all team members agree 
 
 **Team Name**
 
-Personal Finance Intelligence System
+BudgetBrain
 
 **Repository**
 
-https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Personal-Finance-Intelligance-System
+https://github.com/CapstoneDesign-Spring2026-UlsanCollege/BudgetBrain
 
 **Members**
 
@@ -102,3 +102,5 @@ Our team will follow this workflow:
 ```text
 Issue -> Branch -> Pull Request -> Review -> Merge -> Evidence
 ```
+
+

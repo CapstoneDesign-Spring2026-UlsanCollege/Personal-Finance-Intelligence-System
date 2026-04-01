@@ -1,5 +1,5 @@
 
-# Personal Finance Intelligence System
+# BudgetBrain
 
 
 
@@ -19,21 +19,21 @@ A smart platform to help users manage, analyze, and optimize their personal fina
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Personal-Finance-Intelligance-System.git
+   git clone https://github.com/CapstoneDesign-Spring2026-UlsanCollege/BudgetBrain.git
    ```
-# Personal Finance Intelligence System
+# BudgetBrain
 
-A **Personal Finance Intelligence System (PFIS)** is a system designed to help individuals track, analyze, and improve their financial health. It collects data about income, expenses, and spending habits, then provides insights, alerts, and recommendations to support better financial decisions.
+A **BudgetBrain (PFIS)** is a system designed to help individuals track, analyze, and improve their financial health. It collects data about income, expenses, and spending habits, then provides insights, alerts, and recommendations to support better financial decisions.
 
 ---
 
 # Team Information
 
 **Team Name**  
-Personal Finance Intelligence System
+BudgetBrain
 
 **Repository**  
-https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Personal-Finance-Intelligance-System
+https://github.com/CapstoneDesign-Spring2026-UlsanCollege/BudgetBrain
 
 **Team Members**
 
@@ -70,7 +70,7 @@ The main users of this system include:
 
 # Project Goal
 
-The goal of this project is to develop a **Personal Finance Intelligence System** that allows users to monitor and analyze their financial activities in real time.
+The goal of this project is to develop a **BudgetBrain** that allows users to monitor and analyze their financial activities in real time.
 
 The system will display income and expense data, provide alerts for unusual or excessive spending, and allow users to review historical financial trends. It will also help users generate reports and gain insights into their financial behavior.
 
@@ -139,3 +139,5 @@ Merge
 Demo  
 
 Each week ends with a **Sprint Packet submission** documenting progress. update in this format
+
+

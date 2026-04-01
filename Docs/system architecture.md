@@ -1,7 +1,7 @@
-# Architecture (C4-lite) - Personal Finance Intelligence System
+# Architecture (C4-lite) - BudgetBrain
 
 ## Purpose
-This architecture sketch shows the **minimum system structure** needed to build and deploy the Personal Finance Intelligence System MVP in Sprint 1.
+This architecture sketch shows the **minimum system structure** needed to build and deploy the BudgetBrain MVP in Sprint 1.
 
 ---
 
@@ -181,4 +181,8 @@ This architecture enables these Sprint 1 tasks:
 3. **Useful**: Every team member knows what to build
 4. **Scoped**: Future features (AI, advisors, banks) are labeled as Future
 
+<<<<<<< HEAD
 
+=======
+---
+>>>>>>> 584d703 (itr)

@@ -1,12 +1,12 @@
-name: Decision Record (Personal-Finance-Intelligence-System)
-description: Document a key decision for the Personal-Finance-Intelligence-System
+name: Decision Record (BudgetBrain)
+description: Document a key decision for the BudgetBrain
 labels: ["decision"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Decision Record for Personal-Finance-Intelligence-System
+        ## Decision Record for BudgetBrain
         Please document the decision and its context.
 
   - type: input
@@ -44,3 +44,4 @@ body:
       placeholder: Describe benefits, risks, and trade-offs
     validations:
       required: false
+

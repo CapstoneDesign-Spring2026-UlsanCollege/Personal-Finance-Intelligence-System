@@ -4,7 +4,7 @@
 
 **Team Name**
 
-Personal Finance Intelligence System
+BudgetBrain
 
 **Members**
 
@@ -15,13 +15,13 @@ Personal Finance Intelligence System
 
 **Repository (if created)**
 
-https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Personal-Finance-Intelligence-System
+https://github.com/CapstoneDesign-Spring2026-UlsanCollege/BudgetBrain
 
 ---
 
 # 1. Project Title
 
-Personal Finance Intelligence System
+BudgetBrain
 
 ---
 
@@ -118,3 +118,5 @@ The system will show income and expenses and display a visual alert when overspe
 This project focuses on a **simple financial dashboard with tracking and alerts**, which is achievable within one semester.
 
 ---
+
+

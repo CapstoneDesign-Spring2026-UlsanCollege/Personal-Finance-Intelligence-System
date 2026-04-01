@@ -1,13 +1,13 @@
-name: Retrospective (Personal-Finance-Intelligence-System)
-about: Share feedback or lessons learned from a sprint in the Personal-Finance-Intelligence-System
+name: Retrospective (BudgetBrain)
+about: Share feedback or lessons learned from a sprint in the BudgetBrain
 labels: retrospective
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Retrospective for Personal-Finance-Intelligence-System
-        Please provide your feedback for this sprint in the Personal-Finance-Intelligence-System project.
+        ## Retrospective for BudgetBrain
+        Please provide your feedback for this sprint in the BudgetBrain project.
 
   - type: textarea
     id: what_went_well
@@ -41,3 +41,4 @@ body:
         - Add more testing
     validations:
       required: false
+

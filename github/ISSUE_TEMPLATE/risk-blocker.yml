@@ -1,13 +1,13 @@
-name: Risk/Blocker (Personal-Finance-Intelligence-System)
-about: Report a risk or blocker for the Personal-Finance-Intelligence-System
+name: Risk/Blocker (BudgetBrain)
+about: Report a risk or blocker for the BudgetBrain
 labels: risk, blocker
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Risk/Blocker for Personal-Finance-Intelligence-System
-        Please describe the risk or blocker affecting the Personal-Finance-Intelligence-System project.
+        ## Risk/Blocker for BudgetBrain
+        Please describe the risk or blocker affecting the BudgetBrain project.
 
   - type: input
     id: summary
@@ -49,3 +49,4 @@ body:
         - Use temporary workaround
     validations:
       required: false
+

@@ -2,7 +2,7 @@
 
 ## 1) Project purpose
 **One-sentence summary:**
-Personal Finance Intelligence System helps users track, analyze, and optimize their financial decisions through an intelligent web platform with AI-powered insights.
+BudgetBrain helps users track, analyze, and optimize their financial decisions through an intelligent web platform with AI-powered insights.
 
 **Why this matters:**
 Most people struggle to understand their spending patterns and make informed financial decisions. By centralizing financial data and providing AI-driven insights, this system empowers users to take control of their finances and achieve their financial goals more effectively.
@@ -153,3 +153,4 @@ If time runs short, cut these first:
 - [x] Sprint 1 goals are small enough to demo
 - [x] risks are honest
 - [x] evidence links are included where possible
+

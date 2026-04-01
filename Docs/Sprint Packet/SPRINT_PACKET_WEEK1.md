@@ -1,8 +1,8 @@
-# SPRINT_PACKET_WEEK1.md — Personal Finance Intelligence System
+# SPRINT_PACKET_WEEK1.md — BudgetBrain
 
 ## Sprint Information
 
-**Project Name:** Personal Finance Intelligence System  
+**Project Name:** BudgetBrain  
 **Sprint Number:** Sprint 1  
 **Sprint Duration:** Week 1  
 **Sprint Focus:** Project Setup and Planning
@@ -17,7 +17,7 @@
 
 # Sprint Goal
 
-The goal of Sprint 1 was to establish the **foundation of the Personal Finance Intelligence System project**.
+The goal of Sprint 1 was to establish the **foundation of the BudgetBrain project**.
 
 During this sprint, the team focused on organizing the repository, defining the project scope, and preparing the initial documentation required for development.
 
@@ -84,8 +84,10 @@ The repository was organized to separate documentation, frontend, backend, and d
 
 # Sprint Summary
 
-Sprint 1 successfully established the **foundation of the Personal Finance Intelligence System**.
+Sprint 1 successfully established the **foundation of the BudgetBrain**.
 
 The team now has a clear plan, defined structure, and is ready to begin **system development in Sprint 2**.
 
 ---
+
+

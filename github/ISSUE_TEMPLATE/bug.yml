@@ -1,12 +1,12 @@
-name: Bug Report (Personal-Finance-Intelligence-System)
-description: File a bug report to help us improve the Personal-Finance-Intelligence-System
+name: Bug Report (BudgetBrain)
+description: File a bug report to help us improve the BudgetBrain
 labels: ["bug"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Bug Report for Personal-Finance-Intelligence-System
+        ## Bug Report for BudgetBrain
         Please fill out the following information to help us fix issues.
 
   - type: input
@@ -60,3 +60,4 @@ body:
     attributes:
       label: Additional Context
       description: Any other information
+

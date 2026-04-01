@@ -1,8 +1,8 @@
-# SPRINT_PACKET_WEEK3.md — Personal Finance Intelligence System
+# SPRINT_PACKET_WEEK3.md — BudgetBrain
 
 ## Sprint Information
 
-**Project Name:** Personal Finance Intelligence System
+**Project Name:** BudgetBrain
 **Sprint Number:** Sprint 3
 **Sprint Duration:** Week 3
 **Sprint Focus:** Core Implementation - Authentication & Dashboard
@@ -11,7 +11,7 @@
 
 # Sprint Goal
 
-The goal of Sprint 3 is to implement the **core authentication system and dashboard functionality** of the Personal Finance Intelligence System.
+The goal of Sprint 3 is to implement the **core authentication system and dashboard functionality** of the BudgetBrain.
 
 This sprint focuses on building the **user registration/login system, responsive dashboard layout, and transaction management components** to deliver a functional MVP that users can interact with.
 
@@ -222,3 +222,7 @@ The repository maintains clear separation of concerns:
 - The application provides a smooth, professional user experience
 - Code is well-documented, tested, and follows security best practices
 - Team has clear foundation for remaining development sprints
+<<<<<<< HEAD
+=======
+
+>>>>>>> 584d703 (itr)

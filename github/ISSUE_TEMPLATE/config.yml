@@ -1,12 +1,12 @@
-name: Config Change (Personal-Finance-Intelligence-System)
-description: Propose a configuration or settings change for the Personal-Finance-Intelligence-System
+name: Config Change (BudgetBrain)
+description: Propose a configuration or settings change for the BudgetBrain
 labels: ["config"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Config Change for Personal-Finance-Intelligence-System
+        ## Config Change for BudgetBrain
         Please describe the configuration change you are proposing.
 
   - type: input
@@ -44,3 +44,4 @@ body:
       placeholder: Describe any side effects or improvements
     validations:
       required: false
+

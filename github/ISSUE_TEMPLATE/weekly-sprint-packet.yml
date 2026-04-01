@@ -1,12 +1,12 @@
-name: Weekly Sprint Packet (Personal-Finance-Intelligence-System)
-about: Submit your weekly sprint packet for the Personal-Finance-Intelligence-System
+name: Weekly Sprint Packet (BudgetBrain)
+about: Submit your weekly sprint packet for the BudgetBrain
 labels: sprint, weekly
 
 body:
   - type: markdown
     attributes:
       value: |
-        ## Weekly Sprint Packet for Personal-Finance-Intelligence-System
+        ## Weekly Sprint Packet for BudgetBrain
         Please fill out your weekly sprint packet below.
 
   - type: textarea
@@ -41,3 +41,4 @@ body:
         - Dependency on another team
     validations:
       required: false
+

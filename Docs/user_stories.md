@@ -27,3 +27,5 @@
 - As a user, I want spending predictions so that I can plan my future finances.
 - As a user, I want personalized recommendations (e.g., reduce spending in certain categories) so that I can improve my financial habits.
 - As a developer, I want API access so that other applications can integrate with the system.
+
+

@@ -1,5 +1,5 @@
 @echo off
-echo Creating Sprint 1 Issues for Personal Finance Intelligence System...
+echo Creating Sprint 1 Issues for BudgetBrain...
 echo Make sure you have authenticated with GitHub CLI first by running:
 echo "C:\Program Files\GitHub CLI\gh.exe" auth login
 echo.
@@ -8,7 +8,7 @@ pause >nul
 
 REM Issue 1: Set up Node.js/Express server
 "C:\Program Files\GitHub CLI\gh.exe" issue create --title "Set up Node.js/Express server with basic API structure" --body "
-Set up the backend foundation for the Personal Finance Intelligence System.
+Set up the backend foundation for the BudgetBrain.
 
 **Acceptance Criteria:**
 - Node.js/Express server initialized
@@ -156,3 +156,4 @@ echo Go to your project board to add them to the backlog:
 echo https://github.com/orgs/CapstoneDesign-Spring2026-UlsanCollege/projects/20
 echo.
 pause
+

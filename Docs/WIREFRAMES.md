@@ -1,4 +1,4 @@
-# Wireframes - Personal Finance Intelligence System
+# Wireframes - BudgetBrain
 
 **Purpose**: These wireframes show the MVP user flow for Spring 1. Simple layout, no colors or decoration—just function.
 
@@ -13,7 +13,7 @@
 ```
 ┌─────────────────────────────────────────────┐
 │                                               │
-│  Personal Finance Intelligence System       │
+│  BudgetBrain       │
 │  Manage your money, smartly                 │
 │                                               │
 │  ┌─────────────────────────────────────┐    │
@@ -230,3 +230,7 @@
 2. **Week 5**: Conduct user testing with wireframes
 3. **Sprint 1**: Implement these screens in React
 4. **Sprint 2**: Add additional screens (full transaction list, budget setup, etc.)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 584d703 (itr)

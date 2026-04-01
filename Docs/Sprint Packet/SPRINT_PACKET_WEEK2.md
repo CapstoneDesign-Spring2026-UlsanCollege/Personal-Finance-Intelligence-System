@@ -1,8 +1,8 @@
-# SPRINT_PACKET_WEEK2.md — Personal Finance Intelligence System
+# SPRINT_PACKET_WEEK2.md — BudgetBrain
 
 ## Sprint Information
 
-**Project Name:** Personal Finance Intelligence System  
+**Project Name:** BudgetBrain  
 **Sprint Number:** Sprint 2  
 **Sprint Duration:** Week 2  
 **Sprint Focus:** Implement First Functional Slice – Transaction Input
@@ -11,7 +11,7 @@
 
 # Sprint Goal
 
-The goal of Sprint 2 is to implement the **first functional slice** of the Personal Finance Intelligence System: allowing users to **input income and expenses**, which are stored in the database.  
+The goal of Sprint 2 is to implement the **first functional slice** of the BudgetBrain: allowing users to **input income and expenses**, which are stored in the database.  
 
 This sprint focuses on **frontend form creation, backend API implementation, and database integration** to track personal finances.
 
@@ -19,7 +19,7 @@ This sprint focuses on **frontend form creation, backend API implementation, and
 
 # Topic Change Note
 
-**Important:** In the second week, we changed our project topic to "Personal Finance Intelligence System" upon the professor's suggestion, as the initial topic was too broad and complex for the sprint timeline. This change allowed us to focus on a more manageable and impactful project scope.
+**Important:** In the second week, we changed our project topic to "BudgetBrain" upon the professor's suggestion, as the initial topic was too broad and complex for the sprint timeline. This change allowed us to focus on a more manageable and impactful project scope.
 
 ---
 
@@ -102,10 +102,12 @@ The repository is organized to clearly separate documentation, frontend, backend
 
 # Sprint Summary
 
-Sprint 2 focused on **building the first functional slice** of the Personal Finance Intelligence System.  
+Sprint 2 focused on **building the first functional slice** of the BudgetBrain.  
 
 The team successfully implemented the **transaction input feature**, connected frontend and backend, and stored data in the database.  
 
 The system is now ready for **Sprint 3**, which will expand features to **viewing, summarizing, and visualizing transactions**.
 
 ---
+
+
