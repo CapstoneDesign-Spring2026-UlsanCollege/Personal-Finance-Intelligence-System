@@ -1,4 +1,4 @@
-# SPRINT_PACKET_WEEK2.md — BudgetBrain
+# WEEKLY SPRINT PACKET - WEEK2.md — BudgetBrain
 
 ## Sprint Information
 
