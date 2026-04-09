@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  background: #f4f6f9;
+}
+
+.container {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+input, select {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  width: 95%;
+  padding: 10px;
+  background: green;
+  color: white;
+  border: none;
+}
+
+ul {
+  list-style: none;
+}

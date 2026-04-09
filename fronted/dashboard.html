@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>💰 Dashboard</h1>
+
+  <button onclick="logout()">Logout</button>
+
+  <div class="card">
+    <h2>Add Transaction</h2>
+
+    <input type="number" id="amount" placeholder="Amount">
+
+    <select id="category">
+      <option>Food</option>
+      <option>Transport</option>
+      <option>Shopping</option>
+      <option>Other</option>
+    </select>
+
+    <button onclick="addTransaction()">Add</button>
+  </div>
+
+  <div class="card">
+    <h2>Transactions</h2>
+    <ul id="list"></ul>
+  </div>
+</div>
+
+<script>
+const token = localStorage.getItem("token");
+
+if (!token) {
+  window.location.href = "index.html";
+}
+
+function logout() {
+  localStorage.removeItem("token");
+  window.location.href = "index.html";
+}
+
+async function addTransaction() {
+  const amount = document.getElementById("amount").value;
+  const category = document.getElementById("category").value;
+
+  const res = await fetch("http://localhost:5000/transaction", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": token
+    },
+    body: JSON.stringify({ amount, category })
+  });
+
+  const data = await res.json();
+
+  const li = document.createElement("li");
+  li.textContent = `${category}: $${amount}`;
+  document.getElementById("list").appendChild(li);
+}
+</script>
+
+</body>
+</html>
