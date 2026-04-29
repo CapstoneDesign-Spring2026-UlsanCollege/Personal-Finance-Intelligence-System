@@ -6,7 +6,7 @@ Current repo: https://github.com/CapstoneDesign-Spring2026-UlsanCollege/BudgetBr
 Current demo link: 
 Date updated: April 29, 2026
 
-3) What Our App Currently Does
+3) What Our App Currently Does 
 
 BudgetBrain is a personal finance management web application that helps users track income, expenses, and manage budgets using a modern dashboard.
 
