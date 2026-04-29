@@ -79,6 +79,6 @@ Client: http://localhost:5173
 - Dashboard with charts
 - Budget management
 
-## License
 
-MIT
+
+
