@@ -8,7 +8,7 @@ Smart personal finance management application with authentication, transaction t
 |------|------------|
 | Frontend | React + Vite |
 | Backend | Node.js + Express |
-| Database | SQLite |
+| Database | mongodb|
 | Auth | JWT + bcrypt |
 
 ## Project Structure
